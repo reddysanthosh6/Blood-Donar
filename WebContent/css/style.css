@@ -1,0 +1,37 @@
+/*Heading Jumbotron  */
+
+.jumbotron {
+    padding: 15px 0;
+    margin-bottom: 0px;
+    background-color: red;
+}
+/* Slider  */
+.navbar-default {
+    background-color: beige;
+    border-color: rgb(255, 0, 0);
+}
+/* Login Page  */
+.panel-info>.panel-heading {
+    color: #085c5c;
+    background-color: #ff0000;
+    border-color: #ff0000;
+}
+/* Botton Group */
+.btnGroup{
+color: #000;
+    background-color: #ff0000;
+    border-color: #d43f3a;
+    margin: 35px 0;
+}
+textarea {
+    BORDER-RIGHT: #cccccc 1px ridge;
+    BORDER-TOP: #000000 1px ridge;
+    FONT-SIZE: 9pt;
+    BORDER-LEFT: #000000 1px ridge;
+    WIDTH: 130px;
+    COLOR: black;
+    BORDER-BOTTOM: #cccccc 1px ridge;
+    BACKGROUND-COLOR: #FFFFFF;
+}
+
+
